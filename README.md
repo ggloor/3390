@@ -7,3 +7,5 @@ README files are in each directory
 PSI-BLAST contains files for PSI-BLAST lectures and tutorials
 
 SW contains files for the Smith Waterman lectures and tutorials
+
+PSSM contains files for the structure-guided sequence MSA lectures
